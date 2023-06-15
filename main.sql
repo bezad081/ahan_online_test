@@ -1,4 +1,4 @@
-use Customer
+
 
 CREATE TABLE Sales (
     SalesID INT PRIMARY KEY,
